@@ -9,4 +9,10 @@ pyinstaller --onefile --add-data "C:\Users\admin\Desktop\ffmpeg-2023-08-20-git-f
 ```
 # 其他
 不会打包和运行？
-那就直接下载我打包好的exe直接使用叭！
+那就直接下载我打包好的exe直接使用叭！  
+[点击这里下载](https://github.com/StephenJose-Dai/pictransfervideo/releases/download/v24.11.4.1/pictransfervideo_windows_x64.zip)
+
+# 支援
+如果有部署问题或者其他问题，可以联系作者支援  
+
+![戴戴的Linux](qrcord.jpg)
