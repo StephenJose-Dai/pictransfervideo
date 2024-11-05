@@ -15,4 +15,4 @@ pyinstaller --onefile --add-data "C:\Users\admin\Desktop\ffmpeg-2023-08-20-git-f
 # 支援
 如果有部署问题或者其他问题，可以联系作者支援  
 
-![戴戴的Linux](qrcorde.jpg)
+![戴戴的Linux](qrcode.jpg)
